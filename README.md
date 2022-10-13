@@ -3,11 +3,6 @@ Research on Understanding Landfill Waste Diversion Using Convolution Neural Netw
 
 This repository contains the DiversionNet dataset used for research to improve waste auditing practices by identifying divertible waste in images based on computer vision based on convolution neural networks. DiversionNet currently contains labels for cardboard, food, glass, plastic, paper, metal, vegetation, and trash.
 
-An additional folder includes an augmented dataset based of three techniques:
- - Elastic Distortion and Horizontal Flipping
- - Rotation and Shearing
- - Random Erasing
-
 DiversionNet has been assembled by collating open source datasets, with acknowledgements to: 
 
 M. Yang and G. Thung. TrashNet. [Online]. Available: https://github.com/garythung/trashnet
